@@ -6,7 +6,6 @@ public class Empleado {
     private Fecha fechaIngreso;
     private double salario;
     private int numhijos;
-    private double porcentauxilio;
     private int personasCargo;
 
     public Empleado() {
